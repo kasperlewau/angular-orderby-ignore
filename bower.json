@@ -1,0 +1,26 @@
+{
+  "name": "angular-orderby-ignore",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kasperlewau/angular-orderby-ignore",
+  "authors": [
+    "Kasper Lewau <lewauu@gmail.com> (https://github.com/kasperlewau)"
+  ],
+  "description": "ignore capability added to orderBy filter",
+  "main": "dist/angular-orderby-ignore.js",
+  "keywords": [
+    "angular",
+    "angular-filter",
+    "angular-orderby",
+    "angular-orderby-ignore"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
