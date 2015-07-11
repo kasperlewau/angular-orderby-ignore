@@ -1,7 +1,7 @@
 ## angular-orderby-ignore ![travisci](https://travis-ci.org/kasperlewau/angular-orderby-ignore.svg?branch=master)
 > adds a fourth parameter to the orderBy filter to halt ordering
 
-#### installation
+### installation
 ```
   bower install angular-orderby-ignore --save
 ```
@@ -28,5 +28,5 @@
 ### testing
 `npm install; npm test`
 
-### License
-MIT
+### license
+MIT © [Kasper Lewau](https://github.com/kasperlewau)
