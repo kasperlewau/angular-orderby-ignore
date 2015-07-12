@@ -1,4 +1,4 @@
-## angular-orderby-ignore ![travisci](https://travis-ci.org/kasperlewau/angular-orderby-ignore.svg?branch=master)
+## angular-orderby-ignore [![travisci](https://travis-ci.org/kasperlewau/angular-orderby-ignore.svg?branch=master)](https://travis-ci.org/kasperlewau/angular-orderby-ignore)
 > adds a fourth parameter to the orderBy filter to halt ordering
 
 ### installation
