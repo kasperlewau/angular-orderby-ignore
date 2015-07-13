@@ -1,7 +1,7 @@
 {
   "name": "angular-orderby-ignore",
   "version": "0.0.1",
-  "description": "automatic angular $rootScope.$on deregistration",
+  "description": "ignore capability added to orderBy filter",
   "main": "dist/angular-orderby-ignore.js",
   "scripts": {
     "test": "karma start karma.conf.js",
